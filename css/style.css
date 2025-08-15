@@ -130,3 +130,13 @@ form div.incorrect input{
 #errors p {
     background-color: #fff;
 }
+
+.pp{
+    margin-top: -20px;
+    font-size: 10pxgi;
+}
+
+.p{
+    margin-top: -40px;
+    font-weight: bold;
+}
