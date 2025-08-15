@@ -23,7 +23,7 @@ body{
     background-color: #8672FF;
     background-size: cover;
     background-position: right;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .wrapper{
